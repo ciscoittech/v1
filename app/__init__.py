@@ -24,4 +24,4 @@ def load_user(user_id):
 
 
 # Import routes after creating the app instance
-# from app.routes import user_routes, quiz_routes, auth_routes
+from app.routes import auth_routes, user_routes
