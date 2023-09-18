@@ -19,4 +19,4 @@ def profile():
     elif request.method == 'GET':
         form.username.data = current_user.username
         form.email.data = current_user.email
-    return render_template('pages/', title='Profile', form=form)
+    return render_template('home/profile.html', title='Profile', form=form)

@@ -8,7 +8,13 @@ from app import app
 def exam():
     # Fetching all vendors and exams for display
     vendors = Vendor.objects.all()
-    return render_template('home/exam.html', vendors=vendors)
+    return render_template('home/exam1.html', vendors=vendors)
+
+@app.route('/product')
+def product():
+    # Fetching all vendors and exams for display
+
+    return render_template('home/product.html')
 
 
 @app.route('/exam/<string:exam_id>')
