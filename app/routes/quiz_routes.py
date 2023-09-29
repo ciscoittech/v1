@@ -7,8 +7,9 @@ from app import app
 @app.route('/exam')
 def exam():
     # Fetching all vendors and exams for display
-    vendors = Vendor.objects.all()
-    return render_template('home/exam1.html', vendors=vendors)
+    # vendors = Vendor.objects.all()
+    exams = Exam.objects.all()
+    return render_template('home/exam1.html', exams=exams)
 
 @app.route('/product')
 def product():

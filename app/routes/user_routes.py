@@ -20,3 +20,13 @@ def profile():
         form.username.data = current_user.username
         form.email.data = current_user.email
     return render_template('home/profile.html', title='Profile', form=form)
+
+
+# create route for billing
+@app.route('/billing', methods=['GET', 'POST'])
+def billing():
+    return render_template('home/billing.html', title='Billing')    
+
+#
+
+

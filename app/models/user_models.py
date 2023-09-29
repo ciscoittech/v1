@@ -8,6 +8,8 @@ class User(UserMixin, me.Document):
     email = me.StringField(required=True, unique=True)
     username = me.StringField(required=True, unique=True)
     password_hash = me.StringField(required=True)
+    first_name = me.StringField()
+    last_name = me.StringField()
 
     def set_password(self, password):
         self.password_hash = generate_password_hash(password)

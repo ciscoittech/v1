@@ -8,7 +8,12 @@ from app import app
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    return "hello world"
+    return render_template('home/index.html')
+
+
+@app.route('/tables', methods=['GET', 'POST'])
+def tables():
+    return render_template('home/tables.html')
 
 
 @app.route('/register', methods=['GET', 'POST'])
@@ -59,7 +64,7 @@ def login():
         
         next_page = request.args.get('next')
         if not next_page or url_parse(next_page).netloc != '':
-            next_page = url_for('success')
+            next_page = url_for('profile')
         return redirect(next_page)
 
     return render_template('accounts/login.html', title='Sign In', form=form)

@@ -6,6 +6,7 @@ from app.models.user_models import User
 from config import Config
 
 app = Flask(__name__)
+
 app.config.from_object(Config)
 
 # Connect to the MongoDB database using mongoengine
@@ -25,4 +26,4 @@ def load_user(user_id):
 
 
 # Import routes after creating the app instance
-from app.routes import auth_routes, user_routes, quiz_routes
+from app.routes import auth_routes, user_routes, quiz_routes, chat_routes
