@@ -10,7 +10,7 @@ app = Flask(__name__)
 app.config.from_object(Config)
 
 # Connect to the MongoDB database using mongoengine
-me.connect('quicksilver', host='localhost', port=27017)
+me.connect('demoquiz', host='localhost', port=27017)
 
 login_manager = LoginManager()
 login_manager.init_app(app)
@@ -27,3 +27,4 @@ def load_user(user_id):
 
 # Import routes after creating the app instance
 from app.routes import auth_routes, user_routes, quiz_routes, chat_routes
+

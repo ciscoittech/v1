@@ -1,0 +1,567 @@
+[{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc409d"
+  },
+  "title": "Network Fundamentals",
+  "description": "This section covers the basics of networking.",
+  "exam": {
+    "$oid": "64f3c1666fbf80be8cbc408d"
+  },
+  "questions": [
+    {
+      "$oid": "64f3c1676fbf80be8cbc408e"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc408f"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc4090"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc4091"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc4092"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc4093"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc4094"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc4095"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc4096"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc4097"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc4098"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc4099"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc409a"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc409b"
+    },
+    {
+      "$oid": "64f3c1676fbf80be8cbc409c"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3c20932c5a1d8b461a888"
+  },
+  "title": "Network Access",
+  "description": "",
+  "exam": {
+    "$oid": "64f3c1666fbf80be8cbc408d"
+  },
+  "questions": [
+    {
+      "$oid": "64f3c20932c5a1d8b461a87f"
+    },
+    {
+      "$oid": "64f3c20932c5a1d8b461a880"
+    },
+    {
+      "$oid": "64f3c20932c5a1d8b461a881"
+    },
+    {
+      "$oid": "64f3c20932c5a1d8b461a882"
+    },
+    {
+      "$oid": "64f3c20932c5a1d8b461a883"
+    },
+    {
+      "$oid": "64f3c20932c5a1d8b461a884"
+    },
+    {
+      "$oid": "64f3c20932c5a1d8b461a885"
+    },
+    {
+      "$oid": "64f3c20932c5a1d8b461a886"
+    },
+    {
+      "$oid": "64f3c20932c5a1d8b461a887"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a898"
+  },
+  "title": "Connectivity",
+  "description": "",
+  "exam": {
+    "$oid": "64f3c1666fbf80be8cbc408d"
+  },
+  "questions": [
+    {
+      "$oid": "64f3c24d32c5a1d8b461a889"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a88a"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a88b"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a88c"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a88d"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a88e"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a88f"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a890"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a891"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a892"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a893"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a894"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a895"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a896"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a897"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a8a3"
+  },
+  "title": "IP Services",
+  "description": "",
+  "exam": {
+    "$oid": "64f3c1666fbf80be8cbc408d"
+  },
+  "questions": [
+    {
+      "$oid": "64f3c2a032c5a1d8b461a899"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a89a"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a89b"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a89c"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a89d"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a89e"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a89f"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a0"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a1"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8ae"
+  },
+  "title": "Security Fundamentals",
+  "description": "",
+  "exam": {
+    "$oid": "64f3c1666fbf80be8cbc408d"
+  },
+  "questions": [
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8a4"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8a5"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8a6"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8a7"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8a8"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8a9"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8aa"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8ab"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8ac"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8ad"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8b9"
+  },
+  "title": "Automation and Programmability",
+  "description": "",
+  "exam": {
+    "$oid": "64f3c1666fbf80be8cbc408d"
+  },
+  "questions": [
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8af"
+    },
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8b0"
+    },
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8b1"
+    },
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8b2"
+    },
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8b3"
+    },
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8b4"
+    },
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8b5"
+    },
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8b6"
+    },
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8b7"
+    },
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8b8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8c5"
+  },
+  "title": "Networking Concepts",
+  "description": "",
+  "exam": {
+    "$oid": "64f3ced832c5a1d8b461a8ba"
+  },
+  "questions": [
+    {
+      "$oid": "64f3ced832c5a1d8b461a8bb"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8bc"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8bd"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8be"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8bf"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8c0"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8c1"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8c2"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8c3"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8c4"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3d09132c5a1d8b461a8cc"
+  },
+  "title": "Network Operations",
+  "description": "",
+  "exam": {
+    "$oid": "64f3d09132c5a1d8b461a8c6"
+  },
+  "questions": [
+    {
+      "$oid": "64f3d09132c5a1d8b461a8c7"
+    },
+    {
+      "$oid": "64f3d09132c5a1d8b461a8c8"
+    },
+    {
+      "$oid": "64f3d09132c5a1d8b461a8c9"
+    },
+    {
+      "$oid": "64f3d09132c5a1d8b461a8ca"
+    },
+    {
+      "$oid": "64f3d09132c5a1d8b461a8cb"
+    },
+    {
+      "$oid": "64f3d18d32c5a1d8b461a8cd"
+    },
+    {
+      "$oid": "64f3d18d32c5a1d8b461a8ce"
+    },
+    {
+      "$oid": "64f3d18d32c5a1d8b461a8cf"
+    },
+    {
+      "$oid": "64f3d18d32c5a1d8b461a8d0"
+    },
+    {
+      "$oid": "64f3d18d32c5a1d8b461a8d1"
+    },
+    {
+      "$oid": "64f3d18d32c5a1d8b461a8d2"
+    },
+    {
+      "$oid": "64f3d18d32c5a1d8b461a8d3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3d1e532c5a1d8b461a8d9"
+  },
+  "title": "Network Security",
+  "description": "",
+  "exam": {
+    "$oid": "64f3ced832c5a1d8b461a8ba"
+  },
+  "questions": [
+    {
+      "$oid": "64f3d1e532c5a1d8b461a8d4"
+    },
+    {
+      "$oid": "64f3d1e532c5a1d8b461a8d5"
+    },
+    {
+      "$oid": "64f3d1e532c5a1d8b461a8d6"
+    },
+    {
+      "$oid": "64f3d1e532c5a1d8b461a8d7"
+    },
+    {
+      "$oid": "64f3d1e532c5a1d8b461a8d8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8e4"
+  },
+  "title": "Network Troubleshooting and Tools",
+  "description": "Exam questions related to network troubleshooting and tools",
+  "exam": {
+    "$oid": "64f3ced832c5a1d8b461a8ba"
+  },
+  "questions": [
+    {
+      "$oid": "64f3d25032c5a1d8b461a8da"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8db"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8dc"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8dd"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8de"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8df"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8e0"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8e1"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8e2"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8e3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8f0"
+  },
+  "title": "Architecture and Design",
+  "description": "",
+  "exam": {
+    "$oid": "64f3d70932c5a1d8b461a8e5"
+  },
+  "questions": [
+    {
+      "$oid": "64f3d70932c5a1d8b461a8e6"
+    },
+    {
+      "$oid": "64f3d70932c5a1d8b461a8e7"
+    },
+    {
+      "$oid": "64f3d70932c5a1d8b461a8e8"
+    },
+    {
+      "$oid": "64f3d70932c5a1d8b461a8e9"
+    },
+    {
+      "$oid": "64f3d70932c5a1d8b461a8ea"
+    },
+    {
+      "$oid": "64f3d70932c5a1d8b461a8eb"
+    },
+    {
+      "$oid": "64f3d70932c5a1d8b461a8ec"
+    },
+    {
+      "$oid": "64f3d70932c5a1d8b461a8ed"
+    },
+    {
+      "$oid": "64f3d70932c5a1d8b461a8ee"
+    },
+    {
+      "$oid": "64f3d70932c5a1d8b461a8ef"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3da8b32c5a1d8b461a8f9"
+  },
+  "title": "Implementation",
+  "description": "Questions related to implementing security measures and controls",
+  "exam": {
+    "$oid": "64f3d70932c5a1d8b461a8e5"
+  },
+  "questions": [
+    {
+      "$oid": "64f3da8b32c5a1d8b461a8f1"
+    },
+    {
+      "$oid": "64f3da8b32c5a1d8b461a8f2"
+    },
+    {
+      "$oid": "64f3da8b32c5a1d8b461a8f3"
+    },
+    {
+      "$oid": "64f3da8b32c5a1d8b461a8f4"
+    },
+    {
+      "$oid": "64f3da8b32c5a1d8b461a8f5"
+    },
+    {
+      "$oid": "64f3da8b32c5a1d8b461a8f6"
+    },
+    {
+      "$oid": "64f3da8b32c5a1d8b461a8f7"
+    },
+    {
+      "$oid": "64f3da8b32c5a1d8b461a8f8"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f4cddf26e4287fe89bc0f1"
+  },
+  "title": "Networking concepts",
+  "description": "",
+  "exam": {
+    "$oid": "64f3ced832c5a1d8b461a8ba"
+  },
+  "questions": [
+    {
+      "$oid": "64f4cddf26e4287fe89bc0e9"
+    },
+    {
+      "$oid": "64f4cddf26e4287fe89bc0ea"
+    },
+    {
+      "$oid": "64f4cddf26e4287fe89bc0eb"
+    },
+    {
+      "$oid": "64f4cddf26e4287fe89bc0ec"
+    },
+    {
+      "$oid": "64f4cddf26e4287fe89bc0ed"
+    },
+    {
+      "$oid": "64f4cddf26e4287fe89bc0ee"
+    },
+    {
+      "$oid": "64f4cddf26e4287fe89bc0ef"
+    },
+    {
+      "$oid": "64f4cddf26e4287fe89bc0f0"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f4fd9726e4287fe89bc0f3"
+  },
+  "title": "Attacks, Threats and Vulnerabilities",
+  "description": "",
+  "exam": {
+    "$oid": "64f3ced832c5a1d8b461a8ba"
+  },
+  "questions": [
+    {
+      "$oid": "64f4fd9726e4287fe89bc0f2"
+    }
+  ]
+}]

@@ -1,0 +1,1995 @@
+[{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc408e"
+  },
+  "content": "What is the function of a router in a network?",
+  "choices": {
+    "A": "To connect multiple networks and route packets",
+    "B": "To amplify the signal strength",
+    "C": "To connect devices on the same network",
+    "D": "To filter traffic based on MAC addresses",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "A router is a device that connects multiple networks and routes packets."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc408f"
+  },
+  "content": "What does the term subnetting refer to?",
+  "choices": {
+    "A": "Dividing a network into smaller networks",
+    "B": "Combining multiple networks into one",
+    "C": "Connecting two networks",
+    "D": "Assigning IP addresses to devices",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "Subnetting is the process of dividing a network into smaller networks."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc4090"
+  },
+  "content": "What is the purpose of a firewall in a network?",
+  "choices": {
+    "A": "To connect multiple networks",
+    "B": "To protect a network from unauthorized access",
+    "C": "To assign IP addresses to devices",
+    "D": "To amplify the signal strength",
+    "E": "None of the above"
+  },
+  "correct_answer": "B",
+  "explanation": "A firewall is used to protect a network from unauthorized access."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc4091"
+  },
+  "content": "What is the function of a switch in a network?",
+  "choices": {
+    "A": "To connect devices on the same network",
+    "B": "To connect multiple networks",
+    "C": "To amplify the signal strength",
+    "D": "To protect a network from unauthorized access",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "A switch is used to connect devices on the same network."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc4092"
+  },
+  "content": "What does the term IP address stand for?",
+  "choices": {
+    "A": "Internet Protocol address",
+    "B": "Internet Port address",
+    "C": "Internal Protocol address",
+    "D": "Internal Port address",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "IP address stands for Internet Protocol address."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc4093"
+  },
+  "content": "What is the purpose of DNS in a network?",
+  "choices": {
+    "A": "To translate domain names to IP addresses",
+    "B": "To assign IP addresses to devices",
+    "C": "To connect multiple networks",
+    "D": "To protect a network from unauthorized access",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "DNS is used to translate domain names to IP addresses."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc4094"
+  },
+  "content": "What is the function of DHCP in a network?",
+  "choices": {
+    "A": "To assign IP addresses to devices",
+    "B": "To translate domain names to IP addresses",
+    "C": "To connect multiple networks",
+    "D": "To protect a network from unauthorized access",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "DHCP is used to assign IP addresses to devices."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc4095"
+  },
+  "content": "What does the term MAC address stand for?",
+  "choices": {
+    "A": "Media Access Control address",
+    "B": "Media Access Code address",
+    "C": "Machine Access Control address",
+    "D": "Machine Access Code address",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "MAC address stands for Media Access Control address."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc4096"
+  },
+  "content": "What is the purpose of NAT in a network?",
+  "choices": {
+    "A": "To translate private IP addresses to public IP addresses",
+    "B": "To assign IP addresses to devices",
+    "C": "To connect multiple networks",
+    "D": "To protect a network from unauthorized access",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "NAT is used to translate private IP addresses to public IP addresses."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc4097"
+  },
+  "content": "What is the function of a gateway in a network?",
+  "choices": {
+    "A": "To connect multiple networks",
+    "B": "To assign IP addresses to devices",
+    "C": "To translate domain names to IP addresses",
+    "D": "To protect a network from unauthorized access",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "A gateway is used to connect multiple networks."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc4098"
+  },
+  "content": "What is the purpose of a VLAN in a network?",
+  "choices": {
+    "A": "To create separate broadcast domains within a single switch",
+    "B": "To assign IP addresses to devices",
+    "C": "To connect multiple networks",
+    "D": "To protect a network from unauthorized access",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "A VLAN is used to create separate broadcast domains within a single switch."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc4099"
+  },
+  "content": "What does the term OSI model stand for?",
+  "choices": {
+    "A": "Open System Interconnection model",
+    "B": "Open Source Interconnection model",
+    "C": "Open System Internet model",
+    "D": "Open Source Internet model",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "OSI model stands for Open System Interconnection model."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc409a"
+  },
+  "content": "What is the function of a proxy server in a network?",
+  "choices": {
+    "A": "To act as an intermediary for requests from clients seeking resources from other servers",
+    "B": "To assign IP addresses to devices",
+    "C": "To connect multiple networks",
+    "D": "To protect a network from unauthorized access",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "A proxy server acts as an intermediary for requests from clients seeking resources from other servers."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc409b"
+  },
+  "content": "What is the purpose of a VPN in a network?",
+  "choices": {
+    "A": "To create a secure connection to another network over the Internet",
+    "B": "To assign IP addresses to devices",
+    "C": "To connect multiple networks",
+    "D": "To protect a network from unauthorized access",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "A VPN is used to create a secure connection to another network over the Internet."
+},
+{
+  "_id": {
+    "$oid": "64f3c1676fbf80be8cbc409c"
+  },
+  "content": "What does the term TCP/IP stand for?",
+  "choices": {
+    "A": "Transmission Control Protocol/Internet Protocol",
+    "B": "Transfer Control Protocol/Internet Protocol",
+    "C": "Transmission Code Protocol/Internet Protocol",
+    "D": "Transfer Code Protocol/Internet Protocol",
+    "E": "None of the above"
+  },
+  "correct_answer": "A",
+  "explanation": "TCP/IP stands for Transmission Control Protocol/Internet Protocol."
+},
+{
+  "_id": {
+    "$oid": "64f3c20932c5a1d8b461a87f"
+  },
+  "content": "Which of the following is a Layer 2 device used to forward frames based on MAC addresses?",
+  "choices": {
+    "A": "Router",
+    "B": "Switch",
+    "C": "Firewall",
+    "D": "Hub",
+    "E": "Bridge"
+  },
+  "correct_answer": "B",
+  "explanation": "Switches operate at Layer 2 of the OSI model and use MAC addresses to forward frames."
+},
+{
+  "_id": {
+    "$oid": "64f3c20932c5a1d8b461a880"
+  },
+  "content": "Which of the following is a feature of a switch that allows it to learn the MAC addresses of connected devices?",
+  "choices": {
+    "A": "ARP",
+    "B": "VLAN",
+    "C": "STP",
+    "D": "MAC address table",
+    "E": "DHCP"
+  },
+  "correct_answer": "D",
+  "explanation": "Switches learn MAC addresses by examining the source MAC address of incoming frames and associating them with the corresponding port in the MAC address table."
+},
+{
+  "_id": {
+    "$oid": "64f3c20932c5a1d8b461a881"
+  },
+  "content": "Which of the following is a Layer 2 protocol used by switches to prevent loops in a network?",
+  "choices": {
+    "A": "ARP",
+    "B": "VLAN",
+    "C": "STP",
+    "D": "MAC address table",
+    "E": "DHCP"
+  },
+  "correct_answer": "C",
+  "explanation": "Spanning Tree Protocol (STP) is a Layer 2 protocol used by switches to prevent loops in a network by blocking redundant paths."
+},
+{
+  "_id": {
+    "$oid": "64f3c20932c5a1d8b461a882"
+  },
+  "content": "Which of the following is a Layer 2 protocol used to dynamically assign IP addresses to network devices?",
+  "choices": {
+    "A": "ARP",
+    "B": "VLAN",
+    "C": "STP",
+    "D": "MAC address table",
+    "E": "DHCP"
+  },
+  "correct_answer": "E",
+  "explanation": "Dynamic Host Configuration Protocol (DHCP) is a Layer 2 protocol used to dynamically assign IP addresses to network devices."
+},
+{
+  "_id": {
+    "$oid": "64f3c20932c5a1d8b461a883"
+  },
+  "content": "Which of the following is a Layer 2 protocol used to resolve IP addresses to MAC addresses?",
+  "choices": {
+    "A": "ARP",
+    "B": "VLAN",
+    "C": "STP",
+    "D": "MAC address table",
+    "E": "DHCP"
+  },
+  "correct_answer": "A",
+  "explanation": "Address Resolution Protocol (ARP) is a Layer 2 protocol used to resolve IP addresses to MAC addresses."
+},
+{
+  "_id": {
+    "$oid": "64f3c20932c5a1d8b461a884"
+  },
+  "content": "Which of the following is a Layer 2 protocol used to group devices into logical broadcast domains?",
+  "choices": {
+    "A": "ARP",
+    "B": "VLAN",
+    "C": "STP",
+    "D": "MAC address table",
+    "E": "DHCP"
+  },
+  "correct_answer": "B",
+  "explanation": "Virtual LAN (VLAN) is a Layer 2 protocol used to group devices into logical broadcast domains."
+},
+{
+  "_id": {
+    "$oid": "64f3c20932c5a1d8b461a885"
+  },
+  "content": "Which of the following is a Layer 2 device used to connect multiple networks together?",
+  "choices": {
+    "A": "Router",
+    "B": "Switch",
+    "C": "Firewall",
+    "D": "Hub",
+    "E": "Bridge"
+  },
+  "correct_answer": "A",
+  "explanation": "Routers operate at Layer 3 of the OSI model and are used to connect multiple networks together."
+},
+{
+  "_id": {
+    "$oid": "64f3c20932c5a1d8b461a886"
+  },
+  "content": "Which of the following is a Layer 2 device used to filter network traffic based on IP addresses?",
+  "choices": {
+    "A": "Router",
+    "B": "Switch",
+    "C": "Firewall",
+    "D": "Hub",
+    "E": "Bridge"
+  },
+  "correct_answer": "C",
+  "explanation": "Firewalls are Layer 2 devices used to filter network traffic based on IP addresses."
+},
+{
+  "_id": {
+    "$oid": "64f3c20932c5a1d8b461a887"
+  },
+  "content": "Which of the following is a Layer 2 device used to connect multiple devices together within a network?",
+  "choices": {
+    "A": "Router",
+    "B": "Switch",
+    "C": "Firewall",
+    "D": "Hub",
+    "E": "Bridge"
+  },
+  "correct_answer": "D",
+  "explanation": "Hubs are Layer 2 devices used to connect multiple devices together within a network."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a889"
+  },
+  "content": "Which protocol is used to establish a secure remote connection to a network device?",
+  "choices": {
+    "A": "SSH",
+    "B": "Telnet",
+    "C": "FTP",
+    "D": "HTTP",
+    "E": "SMTP"
+  },
+  "correct_answer": "A",
+  "explanation": "SSH (Secure Shell) is used to establish a secure remote connection to a network device."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a88a"
+  },
+  "content": "Which command is used to test connectivity between two network devices?",
+  "choices": {
+    "A": "ping",
+    "B": "tracert",
+    "C": "nslookup",
+    "D": "netstat",
+    "E": "ipconfig"
+  },
+  "correct_answer": "A",
+  "explanation": "The ping command is used to test connectivity between two network devices."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a88b"
+  },
+  "content": "Which layer of the OSI model is responsible for establishing, maintaining, and terminating sessions between applications?",
+  "choices": {
+    "A": "Transport",
+    "B": "Network",
+    "C": "Data Link",
+    "D": "Session",
+    "E": "Presentation"
+  },
+  "correct_answer": "D",
+  "explanation": "The Session layer of the OSI model is responsible for establishing, maintaining, and terminating sessions between applications."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a88c"
+  },
+  "content": "Which command is used to display the IP address configuration of a network interface?",
+  "choices": {
+    "A": "ipconfig",
+    "B": "ifconfig",
+    "C": "netstat",
+    "D": "ping",
+    "E": "tracert"
+  },
+  "correct_answer": "A",
+  "explanation": "The ipconfig command is used to display the IP address configuration of a network interface."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a88d"
+  },
+  "content": "Which protocol is used to dynamically assign IP addresses to network devices?",
+  "choices": {
+    "A": "DHCP",
+    "B": "DNS",
+    "C": "FTP",
+    "D": "SMTP",
+    "E": "HTTP"
+  },
+  "correct_answer": "A",
+  "explanation": "DHCP (Dynamic Host Configuration Protocol) is used to dynamically assign IP addresses to network devices."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a88e"
+  },
+  "content": "Which command is used to view the routing table on a Cisco router?",
+  "choices": {
+    "A": "show ip route",
+    "B": "show running-config",
+    "C": "show interfaces",
+    "D": "show version",
+    "E": "show arp"
+  },
+  "correct_answer": "A",
+  "explanation": "The show ip route command is used to view the routing table on a Cisco router."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a88f"
+  },
+  "content": "Which layer of the OSI model is responsible for logical addressing and routing?",
+  "choices": {
+    "A": "Network",
+    "B": "Transport",
+    "C": "Data Link",
+    "D": "Physical",
+    "E": "Presentation"
+  },
+  "correct_answer": "A",
+  "explanation": "The Network layer of the OSI model is responsible for logical addressing and routing."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a890"
+  },
+  "content": "Which command is used to configure a default gateway on a Cisco switch?",
+  "choices": {
+    "A": "ip default-gateway",
+    "B": "ip route",
+    "C": "default-gateway",
+    "D": "ip default-network",
+    "E": "ip default-route"
+  },
+  "correct_answer": "A",
+  "explanation": "The ip default-gateway command is used to configure a default gateway on a Cisco switch."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a891"
+  },
+  "content": "Which protocol is used to translate domain names to IP addresses?",
+  "choices": {
+    "A": "DNS",
+    "B": "DHCP",
+    "C": "FTP",
+    "D": "SMTP",
+    "E": "HTTP"
+  },
+  "correct_answer": "A",
+  "explanation": "DNS (Domain Name System) is used to translate domain names to IP addresses."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a892"
+  },
+  "content": "Which command is used to display the MAC address of a network interface?",
+  "choices": {
+    "A": "ipconfig",
+    "B": "ifconfig",
+    "C": "netstat",
+    "D": "ping",
+    "E": "arp -a"
+  },
+  "correct_answer": "B",
+  "explanation": "The ifconfig command is used to display the MAC address of a network interface."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a893"
+  },
+  "content": "Which layer of the OSI model is responsible for converting data into a format that can be understood by the receiving application?",
+  "choices": {
+    "A": "Presentation",
+    "B": "Transport",
+    "C": "Data Link",
+    "D": "Session",
+    "E": "Application"
+  },
+  "correct_answer": "A",
+  "explanation": "The Presentation layer of the OSI model is responsible for converting data into a format that can be understood by the receiving application."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a894"
+  },
+  "content": "Which command is used to display the IP address and MAC address mapping on a Cisco switch?",
+  "choices": {
+    "A": "show ip arp",
+    "B": "show mac-address-table",
+    "C": "show interfaces",
+    "D": "show version",
+    "E": "show running-config"
+  },
+  "correct_answer": "B",
+  "explanation": "The show mac-address-table command is used to display the IP address and MAC address mapping on a Cisco switch."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a895"
+  },
+  "content": "Which layer of the OSI model is responsible for error detection and recovery?",
+  "choices": {
+    "A": "Transport",
+    "B": "Network",
+    "C": "Data Link",
+    "D": "Physical",
+    "E": "Session"
+  },
+  "correct_answer": "A",
+  "explanation": "The Transport layer of the OSI model is responsible for error detection and recovery."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a896"
+  },
+  "content": "Which command is used to configure a static IP address on a Cisco router?",
+  "choices": {
+    "A": "ip address",
+    "B": "ip route",
+    "C": "ip default-gateway",
+    "D": "ip default-network",
+    "E": "ip default-route"
+  },
+  "correct_answer": "A",
+  "explanation": "The ip address command is used to configure a static IP address on a Cisco router."
+},
+{
+  "_id": {
+    "$oid": "64f3c24d32c5a1d8b461a897"
+  },
+  "content": "Which protocol is used to send email messages?",
+  "choices": {
+    "A": "SMTP",
+    "B": "DNS",
+    "C": "DHCP",
+    "D": "FTP",
+    "E": "HTTP"
+  },
+  "correct_answer": "A",
+  "explanation": "SMTP (Simple Mail Transfer Protocol) is used to send email messages."
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a899"
+  },
+  "content": "Which protocol is used for dynamic IP address allocation?",
+  "choices": {
+    "A": "DHCP",
+    "B": "DNS",
+    "C": "FTP",
+    "D": "SMTP",
+    "E": "HTTP"
+  },
+  "correct_answer": "A",
+  "explanation": "DHCP (Dynamic Host Configuration Protocol) is used for dynamic IP address allocation."
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a89a"
+  },
+  "content": "Which protocol is used for translating private IP addresses to public IP addresses?",
+  "choices": {
+    "A": "NAT",
+    "B": "RIP",
+    "C": "OSPF",
+    "D": "BGP",
+    "E": "EIGRP"
+  },
+  "correct_answer": "A",
+  "explanation": "NAT (Network Address Translation) is used for translating private IP addresses to public IP addresses."
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a89b"
+  },
+  "content": "Which protocol is used for resolving domain names to IP addresses?",
+  "choices": {
+    "A": "DNS",
+    "B": "DHCP",
+    "C": "FTP",
+    "D": "SMTP",
+    "E": "HTTP"
+  },
+  "correct_answer": "A",
+  "explanation": "DNS (Domain Name System) is used for resolving domain names to IP addresses."
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a89c"
+  },
+  "content": "Which protocol is used for securely transferring files over a network?",
+  "choices": {
+    "A": "FTP",
+    "B": "DNS",
+    "C": "DHCP",
+    "D": "SMTP",
+    "E": "SSH"
+  },
+  "correct_answer": "A",
+  "explanation": "FTP (File Transfer Protocol) is used for securely transferring files over a network."
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a89d"
+  },
+  "content": "Which protocol is used for sending and receiving email?",
+  "choices": {
+    "A": "SMTP",
+    "B": "DNS",
+    "C": "DHCP",
+    "D": "FTP",
+    "E": "HTTP"
+  },
+  "correct_answer": "A",
+  "explanation": "SMTP (Simple Mail Transfer Protocol) is used for sending and receiving email."
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a89e"
+  },
+  "content": "Which protocol is used for accessing websites?",
+  "choices": {
+    "A": "HTTP",
+    "B": "DNS",
+    "C": "DHCP",
+    "D": "FTP",
+    "E": "SMTP"
+  },
+  "correct_answer": "A",
+  "explanation": "HTTP (Hypertext Transfer Protocol) is used for accessing websites."
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a89f"
+  },
+  "content": "Which protocol is used for securely accessing remote devices over a network?",
+  "choices": {
+    "A": "SSH",
+    "B": "DNS",
+    "C": "DHCP",
+    "D": "FTP",
+    "E": "SMTP"
+  },
+  "correct_answer": "A",
+  "explanation": "SSH (Secure Shell) is used for securely accessing remote devices over a network."
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a8a0"
+  },
+  "content": "Which protocol is used for routing within an autonomous system?",
+  "choices": {
+    "A": "OSPF",
+    "B": "DNS",
+    "C": "DHCP",
+    "D": "FTP",
+    "E": "SMTP"
+  },
+  "correct_answer": "A",
+  "explanation": "OSPF (Open Shortest Path First) is used for routing within an autonomous system."
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a8a1"
+  },
+  "content": "Which protocol is used for routing between autonomous systems?",
+  "choices": {
+    "A": "BGP",
+    "B": "DNS",
+    "C": "DHCP",
+    "D": "FTP",
+    "E": "SMTP"
+  },
+  "correct_answer": "A",
+  "explanation": "BGP (Border Gateway Protocol) is used for routing between autonomous systems."
+},
+{
+  "_id": {
+    "$oid": "64f3c2a032c5a1d8b461a8a2"
+  },
+  "content": "Which protocol is used for routing in a small network?",
+  "choices": {
+    "A": "RIP",
+    "B": "DNS",
+    "C": "DHCP",
+    "D": "FTP",
+    "E": "SMTP"
+  },
+  "correct_answer": "A",
+  "explanation": "RIP (Routing Information Protocol) is used for routing in a small network."
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8a4"
+  },
+  "content": "Which of the following is a common security threat that can be mitigated by implementing strong access control measures?",
+  "choices": {
+    "A": "Malware",
+    "B": "Social engineering",
+    "C": "Denial of Service (DoS) attacks",
+    "D": "Phishing",
+    "E": "Brute force attacks"
+  },
+  "correct_answer": "B",
+  "explanation": "Strong access control measures, such as implementing multi-factor authentication and role-based access control, can help mitigate the risk of social engineering attacks."
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8a5"
+  },
+  "content": "Which of the following is an example of a network security vulnerability?",
+  "choices": {
+    "A": "Firewall",
+    "B": "Intrusion Detection System (IDS)",
+    "C": "Virtual Private Network (VPN)",
+    "D": "Unpatched software",
+    "E": "Antivirus software"
+  },
+  "correct_answer": "D",
+  "explanation": "Unpatched software refers to software that has not been updated with the latest security patches, making it vulnerable to known exploits."
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8a6"
+  },
+  "content": "Which of the following is a best practice for securing wireless networks?",
+  "choices": {
+    "A": "Disabling encryption",
+    "B": "Using a weak password",
+    "C": "Enabling MAC filtering",
+    "D": "Broadcasting the SSID",
+    "E": "Disabling authentication"
+  },
+  "correct_answer": "C",
+  "explanation": "Enabling MAC filtering allows only specific devices with known MAC addresses to connect to the wireless network, enhancing security."
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8a7"
+  },
+  "content": "Which of the following is a characteristic of a strong password?",
+  "choices": {
+    "A": "Short length",
+    "B": "Dictionary words",
+    "C": "Repeating characters",
+    "D": "Complexity",
+    "E": "Personal information"
+  },
+  "correct_answer": "D",
+  "explanation": "A strong password should be complex, consisting of a combination of uppercase and lowercase letters, numbers, and special characters."
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8a8"
+  },
+  "content": "Which of the following is a security measure that can be implemented at the network perimeter?",
+  "choices": {
+    "A": "Intrusion Detection System (IDS)",
+    "B": "Firewall",
+    "C": "Virtual Private Network (VPN)",
+    "D": "Antivirus software",
+    "E": "Access control lists (ACLs)"
+  },
+  "correct_answer": "B",
+  "explanation": "A firewall is a network security device that monitors and controls incoming and outgoing network traffic based on predetermined security rules."
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8a9"
+  },
+  "content": "Which of the following is a common method used to protect sensitive data transmitted over a network?",
+  "choices": {
+    "A": "Encryption",
+    "B": "Firewall",
+    "C": "Intrusion Detection System (IDS)",
+    "D": "Access control lists (ACLs)",
+    "E": "Antivirus software"
+  },
+  "correct_answer": "A",
+  "explanation": "Encryption is the process of converting data into a form that cannot be easily understood by unauthorized individuals, ensuring the confidentiality of sensitive information during transmission."
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8aa"
+  },
+  "content": "Which of the following is a security measure that can help prevent unauthorized access to a network device?",
+  "choices": {
+    "A": "Enabling remote management",
+    "B": "Using default credentials",
+    "C": "Disabling unused ports",
+    "D": "Disabling logging",
+    "E": "Disabling encryption"
+  },
+  "correct_answer": "C",
+  "explanation": "Disabling unused ports helps prevent unauthorized access by closing off potential entry points into the network device."
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8ab"
+  },
+  "content": "Which of the following is a common social engineering technique?",
+  "choices": {
+    "A": "Brute force attack",
+    "B": "Phishing",
+    "C": "Denial of Service (DoS) attack",
+    "D": "Malware",
+    "E": "Intrusion Detection System (IDS)"
+  },
+  "correct_answer": "B",
+  "explanation": "Phishing is a social engineering technique where attackers impersonate legitimate entities to trick individuals into revealing sensitive information, such as passwords or credit card numbers."
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8ac"
+  },
+  "content": "Which of the following is a security measure that can be implemented to protect against malware?",
+  "choices": {
+    "A": "Using weak passwords",
+    "B": "Disabling antivirus software",
+    "C": "Regularly updating software",
+    "D": "Disabling encryption",
+    "E": "Broadcasting the SSID"
+  },
+  "correct_answer": "C",
+  "explanation": "Regularly updating software, including operating systems and applications, helps protect against known vulnerabilities that can be exploited by malware."
+},
+{
+  "_id": {
+    "$oid": "64f3c6b832c5a1d8b461a8ad"
+  },
+  "content": "Which of the following is a characteristic of a secure VPN connection?",
+  "choices": {
+    "A": "Using unencrypted communication",
+    "B": "Using weak authentication",
+    "C": "Using a shared key",
+    "D": "Using tunneling protocols",
+    "E": "Using default configurations"
+  },
+  "correct_answer": "D",
+  "explanation": "A secure VPN connection uses tunneling protocols, such as IPsec or SSL/TLS, to encrypt and protect the confidentiality and integrity of data transmitted over the public network."
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8af"
+  },
+  "content": "1. What is the purpose of the Cisco DevNet platform?",
+  "choices": {
+    "A": "To provide a centralized management platform for Cisco devices",
+    "B": "To enable network automation and programmability",
+    "C": "To offer training and certification programs for network engineers",
+    "D": "To develop new networking hardware",
+    "E": "To provide customer support for Cisco products"
+  },
+  "correct_answer": "B",
+  "explanation": "The Cisco DevNet platform is designed to enable network automation and programmability."
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8b0"
+  },
+  "content": "2. Which programming language is commonly used for network automation?",
+  "choices": {
+    "A": "Java",
+    "B": "Python",
+    "C": "C++",
+    "D": "Ruby",
+    "E": "Perl"
+  },
+  "correct_answer": "B",
+  "explanation": "Python is commonly used for network automation due to its simplicity and extensive libraries."
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8b1"
+  },
+  "content": "3. What is an API?",
+  "choices": {
+    "A": "Automated Programming Interface",
+    "B": "Application Programming Interface",
+    "C": "Automated Protocol Interface",
+    "D": "Application Protocol Interface",
+    "E": "Automated Program Interface"
+  },
+  "correct_answer": "B",
+  "explanation": "API stands for Application Programming Interface, which allows different software applications to communicate with each other."
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8b2"
+  },
+  "content": "4. What is the purpose of a REST API?",
+  "choices": {
+    "A": "To enable network automation through HTTP requests",
+    "B": "To provide secure access to network devices",
+    "C": "To manage network configurations using SSH",
+    "D": "To monitor network traffic in real-time",
+    "E": "To automate network troubleshooting"
+  },
+  "correct_answer": "A",
+  "explanation": "REST APIs allow network automation by using HTTP requests to interact with network devices."
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8b3"
+  },
+  "content": "5. What is the role of YAML in network automation?",
+  "choices": {
+    "A": "To define network topologies",
+    "B": "To automate network device configurations",
+    "C": "To monitor network performance",
+    "D": "To manage network security policies",
+    "E": "To analyze network traffic"
+  },
+  "correct_answer": "A",
+  "explanation": "YAML (YAML Ain't Markup Language) is commonly used to define network topologies and configurations in network automation."
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8b4"
+  },
+  "content": "6. What is the purpose of Ansible in network automation?",
+  "choices": {
+    "A": "To automate network device configurations",
+    "B": "To monitor network traffic",
+    "C": "To analyze network security vulnerabilities",
+    "D": "To manage network virtualization",
+    "E": "To provide network troubleshooting support"
+  },
+  "correct_answer": "A",
+  "explanation": "Ansible is an open-source automation tool used for automating network device configurations."
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8b5"
+  },
+  "content": "7. What is the role of NETCONF in network automation?",
+  "choices": {
+    "A": "To automate network device configurations",
+    "B": "To monitor network traffic",
+    "C": "To analyze network security vulnerabilities",
+    "D": "To manage network virtualization",
+    "E": "To provide network troubleshooting support"
+  },
+  "correct_answer": "A",
+  "explanation": "NETCONF (Network Configuration Protocol) is a network management protocol used for automating network device configurations."
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8b6"
+  },
+  "content": "8. What is the purpose of a webhook in network automation?",
+  "choices": {
+    "A": "To automate network device configurations",
+    "B": "To monitor network traffic",
+    "C": "To analyze network security vulnerabilities",
+    "D": "To manage network virtualization",
+    "E": "To provide real-time notifications"
+  },
+  "correct_answer": "E",
+  "explanation": "A webhook is a way for an application to provide real-time notifications to other applications or services."
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8b7"
+  },
+  "content": "9. What is the role of JSON in network automation?",
+  "choices": {
+    "A": "To define network topologies",
+    "B": "To automate network device configurations",
+    "C": "To monitor network performance",
+    "D": "To manage network security policies",
+    "E": "To analyze network traffic"
+  },
+  "correct_answer": "B",
+  "explanation": "JSON (JavaScript Object Notation) is commonly used to represent data structures in network automation, including network device configurations."
+},
+{
+  "_id": {
+    "$oid": "64f3c83d32c5a1d8b461a8b8"
+  },
+  "content": "10. What is the purpose of the Cisco DNA Center in network automation?",
+  "choices": {
+    "A": "To automate network device configurations",
+    "B": "To monitor network traffic",
+    "C": "To analyze network security vulnerabilities",
+    "D": "To manage network virtualization",
+    "E": "To provide centralized network management"
+  },
+  "correct_answer": "E",
+  "explanation": "The Cisco DNA Center is a centralized network management platform that enables network automation and programmability."
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8bb"
+  },
+  "content": "What is the purpose of a MAC address?",
+  "choices": {
+    "A": "To identify a device on a network",
+    "B": "To determine the IP address of a device",
+    "C": "To establish a secure connection",
+    "D": "To encrypt data transmission",
+    "E": "To route network traffic"
+  },
+  "correct_answer": "A",
+  "explanation": "A MAC address is a unique identifier assigned to a network interface card (NIC) to identify a device on a network."
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8bc"
+  },
+  "content": "Which of the following protocols is used for email communication?",
+  "choices": {
+    "A": "HTTP",
+    "B": "SMTP",
+    "C": "FTP",
+    "D": "DNS",
+    "E": "SSH"
+  },
+  "correct_answer": "B",
+  "explanation": "SMTP (Simple Mail Transfer Protocol) is used for email communication."
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8bd"
+  },
+  "content": "What is the purpose of a subnet mask?",
+  "choices": {
+    "A": "To identify a device on a network",
+    "B": "To determine the IP address of a device",
+    "C": "To establish a secure connection",
+    "D": "To divide a network into subnetworks",
+    "E": "To route network traffic"
+  },
+  "correct_answer": "D",
+  "explanation": "A subnet mask is used to divide a network into subnetworks."
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8be"
+  },
+  "content": "Which of the following is a private IP address?",
+  "choices": {
+    "A": "192.168.1.1",
+    "B": "172.16.0.1",
+    "C": "10.0.0.1",
+    "D": "169.254.0.1",
+    "E": "8.8.8.8"
+  },
+  "correct_answer": "B",
+  "explanation": "172.16.0.1 is a private IP address."
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8bf"
+  },
+  "content": "What is the purpose of DNS?",
+  "choices": {
+    "A": "To identify a device on a network",
+    "B": "To determine the IP address of a device",
+    "C": "To establish a secure connection",
+    "D": "To translate domain names to IP addresses",
+    "E": "To route network traffic"
+  },
+  "correct_answer": "D",
+  "explanation": "DNS (Domain Name System) is used to translate domain names to IP addresses."
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8c0"
+  },
+  "content": "Which of the following is a valid IPv6 address?",
+  "choices": {
+    "A": "192.168.1.1",
+    "B": "172.16.0.1",
+    "C": "10.0.0.1",
+    "D": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+    "E": "8.8.8.8"
+  },
+  "correct_answer": "D",
+  "explanation": "2001:0db8:85a3:0000:0000:8a2e:0370:7334 is a valid IPv6 address."
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8c1"
+  },
+  "content": "What is the purpose of a default gateway?",
+  "choices": {
+    "A": "To identify a device on a network",
+    "B": "To determine the IP address of a device",
+    "C": "To establish a secure connection",
+    "D": "To provide a path for network traffic to exit the local network",
+    "E": "To route network traffic"
+  },
+  "correct_answer": "D",
+  "explanation": "A default gateway provides a path for network traffic to exit the local network."
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8c2"
+  },
+  "content": "Which of the following is a valid IPv4 address?",
+  "choices": {
+    "A": "192.168.1.1",
+    "B": "172.16.0.1",
+    "C": "10.0.0.1",
+    "D": "2001:0db8:85a3:0000:0000:8a2e:0370:7334",
+    "E": "8.8.8.8"
+  },
+  "correct_answer": "A",
+  "explanation": "192.168.1.1 is a valid IPv4 address."
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8c3"
+  },
+  "content": "What is the purpose of NAT?",
+  "choices": {
+    "A": "To identify a device on a network",
+    "B": "To determine the IP address of a device",
+    "C": "To establish a secure connection",
+    "D": "To translate private IP addresses to public IP addresses",
+    "E": "To route network traffic"
+  },
+  "correct_answer": "D",
+  "explanation": "NAT (Network Address Translation) is used to translate private IP addresses to public IP addresses."
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8c4"
+  },
+  "content": "Which of the following is a valid IPv4 subnet mask?",
+  "choices": {
+    "A": "255.255.255.0",
+    "B": "255.255.0.0",
+    "C": "255.0.0.0",
+    "D": "255.255.255.255",
+    "E": "255.255.255.128"
+  },
+  "correct_answer": "A",
+  "explanation": "255.255.255.0 is a valid IPv4 subnet mask."
+},
+{
+  "_id": {
+    "$oid": "64f3d09132c5a1d8b461a8c7"
+  },
+  "content": "Which of the following protocols is used to manage network devices such as switches and routers?",
+  "choices": {
+    "A": "SNMP",
+    "B": "SMTP",
+    "C": "FTP",
+    "D": "HTTP",
+    "E": "TELNET"
+  },
+  "correct_answer": "A",
+  "explanation": "SNMP (Simple Network Management Protocol) is used to manage network devices."
+},
+{
+  "_id": {
+    "$oid": "64f3d09132c5a1d8b461a8c8"
+  },
+  "content": "Which of the following is a common troubleshooting tool used to identify network connectivity issues?",
+  "choices": {
+    "A": "Ping",
+    "B": "Traceroute",
+    "C": "Netstat",
+    "D": "Nslookup",
+    "E": "Ipconfig"
+  },
+  "correct_answer": "A",
+  "explanation": "Ping is a common troubleshooting tool used to identify network connectivity issues."
+},
+{
+  "_id": {
+    "$oid": "64f3d09132c5a1d8b461a8c9"
+  },
+  "content": "Which of the following is a characteristic of a Layer 2 switch?",
+  "choices": {
+    "A": "Operates at the network layer of the OSI model",
+    "B": "Forwards packets based on IP addresses",
+    "C": "Uses MAC addresses to forward frames",
+    "D": "Provides routing between different networks",
+    "E": "Uses TTL to determine the best path for packets"
+  },
+  "correct_answer": "C",
+  "explanation": "A Layer 2 switch uses MAC addresses to forward frames within a local network."
+},
+{
+  "_id": {
+    "$oid": "64f3d09132c5a1d8b461a8ca"
+  },
+  "content": "Which of the following is a common method for securing remote access to a network device?",
+  "choices": {
+    "A": "VPN",
+    "B": "FTP",
+    "C": "SMTP",
+    "D": "HTTP",
+    "E": "TELNET"
+  },
+  "correct_answer": "A",
+  "explanation": "A VPN (Virtual Private Network) is a common method for securing remote access to a network device."
+},
+{
+  "_id": {
+    "$oid": "64f3d09132c5a1d8b461a8cb"
+  },
+  "content": "Which of the following is a characteristic of a Layer 3 switch?",
+  "choices": {
+    "A": "Operates at the data link layer of the OSI model",
+    "B": "Forwards packets based on MAC addresses",
+    "C": "Uses IP addresses to forward packets",
+    "D": "Provides routing between different networks",
+    "E": "Uses TTL to determine the best path for packets"
+  },
+  "correct_answer": "D",
+  "explanation": "A Layer 3 switch provides routing between different networks based on IP addresses."
+},
+{
+  "_id": {
+    "$oid": "64f3d18d32c5a1d8b461a8cd"
+  },
+  "content": "Which of the following is a common troubleshooting tool used to test network connectivity?",
+  "choices": {
+    "A": "Ping",
+    "B": "Traceroute",
+    "C": "Netstat",
+    "D": "Nslookup",
+    "E": "Dig"
+  },
+  "correct_answer": "A",
+  "explanation": "Ping is a common troubleshooting tool used to test network connectivity."
+},
+{
+  "_id": {
+    "$oid": "64f3d18d32c5a1d8b461a8ce"
+  },
+  "content": "Which of the following is a characteristic of a Layer 4 switch?",
+  "choices": {
+    "A": "Operates at the network layer",
+    "B": "Forwards packets based on IP addresses",
+    "C": "Uses MAC addresses to forward frames",
+    "D": "Performs routing between networks",
+    "E": "Provides firewall functionality"
+  },
+  "correct_answer": "D",
+  "explanation": "A Layer 4 switch performs routing between networks."
+},
+{
+  "_id": {
+    "$oid": "64f3d18d32c5a1d8b461a8cf"
+  },
+  "content": "Which of the following is a characteristic of a Layer 7 switch?",
+  "choices": {
+    "A": "Operates at the network layer",
+    "B": "Forwards packets based on IP addresses",
+    "C": "Uses MAC addresses to forward frames",
+    "D": "Performs routing between networks",
+    "E": "Provides application-level load balancing"
+  },
+  "correct_answer": "E",
+  "explanation": "A Layer 7 switch provides application-level load balancing."
+},
+{
+  "_id": {
+    "$oid": "64f3d18d32c5a1d8b461a8d0"
+  },
+  "content": "Which of the following protocols is used to securely transfer files over a network?",
+  "choices": {
+    "A": "SNMP",
+    "B": "SMTP",
+    "C": "FTP",
+    "D": "HTTP",
+    "E": "TELNET"
+  },
+  "correct_answer": "C",
+  "explanation": "FTP (File Transfer Protocol) is used to securely transfer files over a network."
+},
+{
+  "_id": {
+    "$oid": "64f3d18d32c5a1d8b461a8d1"
+  },
+  "content": "Which of the following protocols is used to send and receive email?",
+  "choices": {
+    "A": "SNMP",
+    "B": "SMTP",
+    "C": "FTP",
+    "D": "HTTP",
+    "E": "TELNET"
+  },
+  "correct_answer": "B",
+  "explanation": "SMTP (Simple Mail Transfer Protocol) is used to send and receive email."
+},
+{
+  "_id": {
+    "$oid": "64f3d18d32c5a1d8b461a8d2"
+  },
+  "content": "Which of the following protocols is used to access and retrieve web pages?",
+  "choices": {
+    "A": "SNMP",
+    "B": "SMTP",
+    "C": "FTP",
+    "D": "HTTP",
+    "E": "TELNET"
+  },
+  "correct_answer": "D",
+  "explanation": "HTTP (Hypertext Transfer Protocol) is used to access and retrieve web pages."
+},
+{
+  "_id": {
+    "$oid": "64f3d18d32c5a1d8b461a8d3"
+  },
+  "content": "Which of the following protocols is used to remotely access and manage network devices?",
+  "choices": {
+    "A": "SNMP",
+    "B": "SMTP",
+    "C": "FTP",
+    "D": "HTTP",
+    "E": "TELNET"
+  },
+  "correct_answer": "E",
+  "explanation": "TELNET is used to remotely access and manage network devices."
+},
+{
+  "_id": {
+    "$oid": "64f3d1e532c5a1d8b461a8d4"
+  },
+  "content": "Which of the following is a common security protocol used to secure network communications?",
+  "choices": {
+    "A": "HTTP",
+    "B": "FTP",
+    "C": "SSH",
+    "D": "SMTP",
+    "E": "POP3"
+  },
+  "correct_answer": "C",
+  "explanation": "SSH (Secure Shell) is a common security protocol used to secure network communications by providing encrypted remote access and secure file transfer."
+},
+{
+  "_id": {
+    "$oid": "64f3d1e532c5a1d8b461a8d5"
+  },
+  "content": "Which of the following is a common method used to protect wireless networks from unauthorized access?",
+  "choices": {
+    "A": "MAC filtering",
+    "B": "WEP encryption",
+    "C": "SSID broadcasting",
+    "D": "Open authentication",
+    "E": "DHCP"
+  },
+  "correct_answer": "A",
+  "explanation": "MAC filtering is a common method used to protect wireless networks from unauthorized access by allowing only specific devices with known MAC addresses to connect."
+},
+{
+  "_id": {
+    "$oid": "64f3d1e532c5a1d8b461a8d6"
+  },
+  "content": "Which of the following is a security measure that can be implemented to prevent unauthorized access to a network device?",
+  "choices": {
+    "A": "Firewall",
+    "B": "Intrusion Detection System (IDS)",
+    "C": "Access Control List (ACL)",
+    "D": "Virtual Private Network (VPN)",
+    "E": "Port Security"
+  },
+  "correct_answer": "E",
+  "explanation": "Port security is a security measure that can be implemented to prevent unauthorized access to a network device by allowing only specific MAC addresses to connect to a specific port."
+},
+{
+  "_id": {
+    "$oid": "64f3d1e532c5a1d8b461a8d7"
+  },
+  "content": "Which of the following is a common security vulnerability associated with wireless networks?",
+  "choices": {
+    "A": "Man-in-the-middle attack",
+    "B": "Denial of Service (DoS) attack",
+    "C": "Brute force attack",
+    "D": "Phishing attack",
+    "E": "SQL injection"
+  },
+  "correct_answer": "A",
+  "explanation": "A man-in-the-middle attack is a common security vulnerability associated with wireless networks, where an attacker intercepts and alters communication between two parties without their knowledge."
+},
+{
+  "_id": {
+    "$oid": "64f3d1e532c5a1d8b461a8d8"
+  },
+  "content": "Which of the following is a security measure that can be implemented to protect network devices from unauthorized access?",
+  "choices": {
+    "A": "Strong passwords",
+    "B": "Biometric authentication",
+    "C": "Two-factor authentication",
+    "D": "Role-based access control",
+    "E": "All of the above"
+  },
+  "correct_answer": "E",
+  "explanation": "All of the above security measures can be implemented to protect network devices from unauthorized access."
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8da"
+  },
+  "content": "Which of the following tools is commonly used to test network connectivity between two hosts?",
+  "choices": {
+    "A": "Cable tester",
+    "B": "Protocol analyzer",
+    "C": "Toner probe",
+    "D": "Ping",
+    "E": "Multimeter"
+  },
+  "correct_answer": "D",
+  "explanation": "Ping is a commonly used tool to test network connectivity between two hosts by sending ICMP echo request packets and waiting for ICMP echo reply packets."
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8db"
+  },
+  "content": "A user is unable to access a website. Which of the following troubleshooting steps should be performed first?",
+  "choices": {
+    "A": "Check the user's computer for malware",
+    "B": "Check the website server for availability",
+    "C": "Check the user's network connection",
+    "D": "Check the user's browser settings",
+    "E": "Check the user's DNS settings"
+  },
+  "correct_answer": "C",
+  "explanation": "Checking the user\"s network connection should be the first troubleshooting step as it helps identify if the issue is related to the network connectivity or not."
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8dc"
+  },
+  "content": "Which of the following tools can be used to identify the physical location of a network cable?",
+  "choices": {
+    "A": "Cable tester",
+    "B": "Toner probe",
+    "C": "Protocol analyzer",
+    "D": "Multimeter",
+    "E": "Ping"
+  },
+  "correct_answer": "B",
+  "explanation": "A toner probe is a tool used to identify the physical location of a network cable by sending a tone signal through the cable and using a probe to detect the signal."
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8dd"
+  },
+  "content": "A user reports slow network performance. Which of the following tools can be used to identify network bottlenecks?",
+  "choices": {
+    "A": "Cable tester",
+    "B": "Protocol analyzer",
+    "C": "Toner probe",
+    "D": "Multimeter",
+    "E": "Ping"
+  },
+  "correct_answer": "B",
+  "explanation": "A protocol analyzer can be used to capture and analyze network traffic, helping identify network bottlenecks and performance issues."
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8de"
+  },
+  "content": "Which of the following tools can be used to measure the strength of a wireless signal?",
+  "choices": {
+    "A": "Cable tester",
+    "B": "Protocol analyzer",
+    "C": "Toner probe",
+    "D": "Multimeter",
+    "E": "Wireless signal analyzer"
+  },
+  "correct_answer": "E",
+  "explanation": "A wireless signal analyzer can be used to measure the strength of a wireless signal, helping identify areas with weak signal coverage."
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8df"
+  },
+  "content": "A user is unable to connect to a wireless network. Which of the following troubleshooting steps should be performed first?",
+  "choices": {
+    "A": "Check the user's wireless adapter driver",
+    "B": "Check the wireless access point for availability",
+    "C": "Check the user's network connection",
+    "D": "Check the user's browser settings",
+    "E": "Check the user's DNS settings"
+  },
+  "correct_answer": "C",
+  "explanation": "Checking the user\"s network connection should be the first troubleshooting step as it helps identify if the issue is related to the network connectivity or not."
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8e0"
+  },
+  "content": "Which of the following tools can be used to test the continuity of a network cable?",
+  "choices": {
+    "A": "Cable tester",
+    "B": "Toner probe",
+    "C": "Protocol analyzer",
+    "D": "Multimeter",
+    "E": "Ping"
+  },
+  "correct_answer": "A",
+  "explanation": "A cable tester can be used to test the continuity of a network cable, ensuring that all wires are properly connected."
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8e1"
+  },
+  "content": "A user is unable to access a specific website. Which of the following troubleshooting steps should be performed first?",
+  "choices": {
+    "A": "Check the user's computer for malware",
+    "B": "Check the website server for availability",
+    "C": "Check the user's network connection",
+    "D": "Check the user's browser settings",
+    "E": "Check the user's DNS settings"
+  },
+  "correct_answer": "B",
+  "explanation": "Checking the website server for availability should be the first troubleshooting step to determine if the issue is specific to the website or not."
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8e2"
+  },
+  "content": "Which of the following tools can be used to measure the voltage of a network cable?",
+  "choices": {
+    "A": "Cable tester",
+    "B": "Toner probe",
+    "C": "Protocol analyzer",
+    "D": "Multimeter",
+    "E": "Ping"
+  },
+  "correct_answer": "D",
+  "explanation": "A multimeter can be used to measure the voltage of a network cable, helping identify issues with power over Ethernet (PoE) or other voltage-related problems."
+},
+{
+  "_id": {
+    "$oid": "64f3d25032c5a1d8b461a8e3"
+  },
+  "content": "A user reports intermittent network connectivity issues. Which of the following tools can be used to capture and analyze network traffic during the occurrence of the issue?",
+  "choices": {
+    "A": "Cable tester",
+    "B": "Protocol analyzer",
+    "C": "Toner probe",
+    "D": "Multimeter",
+    "E": "Ping"
+  },
+  "correct_answer": "B",
+  "explanation": "A protocol analyzer can be used to capture and analyze network traffic, helping identify intermittent connectivity issues."
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8e6"
+  },
+  "content": "Which of the following is a security principle that focuses on the concept of least privilege?",
+  "choices": {
+    "A": "Defense in depth",
+    "B": "Separation of duties",
+    "C": "Fail-safe",
+    "D": "Least privilege",
+    "E": "Access control"
+  },
+  "correct_answer": "D",
+  "explanation": "The principle of least privilege states that a user should only have the minimum level of access necessary to perform their job functions, reducing the risk of unauthorized access or misuse."
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8e7"
+  },
+  "content": "Which of the following is a security control that can be implemented to protect against SQL injection attacks?",
+  "choices": {
+    "A": "Firewall",
+    "B": "Intrusion Detection System (IDS)",
+    "C": "Input validation",
+    "D": "Antivirus software",
+    "E": "Virtual Private Network (VPN)"
+  },
+  "correct_answer": "C",
+  "explanation": "Input validation is a security control that ensures that user input is properly validated and sanitized before being processed by an application, preventing SQL injection attacks."
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8e8"
+  },
+  "content": "Which of the following is a security concept that focuses on the ability to track and identify individuals who access a system?",
+  "choices": {
+    "A": "Authentication",
+    "B": "Authorization",
+    "C": "Accountability",
+    "D": "Availability",
+    "E": "Integrity"
+  },
+  "correct_answer": "C",
+  "explanation": "Accountability is a security concept that focuses on the ability to track and identify individuals who access a system, ensuring that their actions can be traced back to them."
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8e9"
+  },
+  "content": "Which of the following is a security control that can be implemented to protect against unauthorized access to a wireless network?",
+  "choices": {
+    "A": "WPA2 encryption",
+    "B": "MAC filtering",
+    "C": "Intrusion Prevention System (IPS)",
+    "D": "Biometric authentication",
+    "E": "Firewall"
+  },
+  "correct_answer": "A",
+  "explanation": "WPA2 encryption is a security control that can be implemented to protect against unauthorized access to a wireless network, ensuring that data transmitted over the network is encrypted and secure."
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8ea"
+  },
+  "content": "Which of the following is a security principle that focuses on the concept of using multiple layers of security controls to protect against threats?",
+  "choices": {
+    "A": "Defense in depth",
+    "B": "Least privilege",
+    "C": "Fail-safe",
+    "D": "Separation of duties",
+    "E": "Access control"
+  },
+  "correct_answer": "A",
+  "explanation": "The principle of defense in depth states that multiple layers of security controls should be implemented to protect against threats, reducing the risk of a single point of failure."
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8eb"
+  },
+  "content": "Which of the following is a security control that can be implemented to protect against malware infections?",
+  "choices": {
+    "A": "Firewall",
+    "B": "Intrusion Detection System (IDS)",
+    "C": "Antivirus software",
+    "D": "Input validation",
+    "E": "Virtual Private Network (VPN)"
+  },
+  "correct_answer": "C",
+  "explanation": "Antivirus software is a security control that can be implemented to protect against malware infections, scanning files and programs for known malicious code and preventing their execution."
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8ec"
+  },
+  "content": "Which of the following is a security concept that focuses on the process of verifying the identity of a user or device?",
+  "choices": {
+    "A": "Authentication",
+    "B": "Authorization",
+    "C": "Accountability",
+    "D": "Availability",
+    "E": "Integrity"
+  },
+  "correct_answer": "A",
+  "explanation": "Authentication is a security concept that focuses on the process of verifying the identity of a user or device, ensuring that they are who they claim to be."
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8ed"
+  },
+  "content": "Which of the following is a security control that can be implemented to protect against unauthorized access to a network?",
+  "choices": {
+    "A": "WPA2 encryption",
+    "B": "MAC filtering",
+    "C": "Intrusion Prevention System (IPS)",
+    "D": "Biometric authentication",
+    "E": "Firewall"
+  },
+  "correct_answer": "E",
+  "explanation": "A firewall is a security control that can be implemented to protect against unauthorized access to a network, monitoring and filtering incoming and outgoing network traffic based on predetermined security rules."
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8ee"
+  },
+  "content": "Which of the following is a security principle that focuses on the concept of dividing responsibilities to prevent fraud and errors?",
+  "choices": {
+    "A": "Defense in depth",
+    "B": "Least privilege",
+    "C": "Fail-safe",
+    "D": "Separation of duties",
+    "E": "Access control"
+  },
+  "correct_answer": "D",
+  "explanation": "The principle of separation of duties states that responsibilities should be divided among multiple individuals to prevent fraud and errors, ensuring that no single individual has complete control over a critical process."
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8ef"
+  },
+  "content": "Which of the following is a security control that can be implemented to protect against network-based attacks?",
+  "choices": {
+    "A": "Firewall",
+    "B": "Intrusion Detection System (IDS)",
+    "C": "Antivirus software",
+    "D": "Input validation",
+    "E": "Virtual Private Network (VPN)"
+  },
+  "correct_answer": "B",
+  "explanation": "An Intrusion Detection System (IDS) is a security control that can be implemented to protect against network-based attacks, monitoring network traffic for suspicious activity and generating alerts when potential threats are detected."
+},
+{
+  "_id": {
+    "$oid": "64f3da8b32c5a1d8b461a8f1"
+  },
+  "content": "Which of the following is an example of a technical control?",
+  "choices": {
+    "A": "Security awareness training",
+    "B": "Firewalls",
+    "C": "Security policies",
+    "D": "Risk assessment",
+    "E": "Incident response plan"
+  },
+  "correct_answer": "B",
+  "explanation": "Technical controls are security measures implemented through technology, such as firewalls."
+},
+{
+  "_id": {
+    "$oid": "64f3da8b32c5a1d8b461a8f2"
+  },
+  "content": "What is the purpose of implementing access controls?",
+  "choices": {
+    "A": "To prevent unauthorized access",
+    "B": "To monitor network traffic",
+    "C": "To encrypt data in transit",
+    "D": "To perform vulnerability assessments",
+    "E": "To create incident response plans"
+  },
+  "correct_answer": "A",
+  "explanation": "Access controls are implemented to prevent unauthorized access to systems and data."
+},
+{
+  "_id": {
+    "$oid": "64f3da8b32c5a1d8b461a8f3"
+  },
+  "content": "Which of the following is an example of a physical control?",
+  "choices": {
+    "A": "Antivirus software",
+    "B": "Intrusion detection system",
+    "C": "Biometric authentication",
+    "D": "Security awareness training",
+    "E": "Cable locks"
+  },
+  "correct_answer": "E",
+  "explanation": "Physical controls are security measures implemented physically, such as cable locks."
+},
+{
+  "_id": {
+    "$oid": "64f3da8b32c5a1d8b461a8f4"
+  },
+  "content": "What is the purpose of implementing encryption?",
+  "choices": {
+    "A": "To prevent unauthorized access",
+    "B": "To monitor network traffic",
+    "C": "To encrypt data in transit",
+    "D": "To perform vulnerability assessments",
+    "E": "To create incident response plans"
+  },
+  "correct_answer": "C",
+  "explanation": "Encryption is used to protect data by converting it into a form that cannot be easily understood by unauthorized individuals."
+},
+{
+  "_id": {
+    "$oid": "64f3da8b32c5a1d8b461a8f5"
+  },
+  "content": "Which of the following is an example of a administrative control?",
+  "choices": {
+    "A": "Firewalls",
+    "B": "Intrusion detection system",
+    "C": "Security policies",
+    "D": "Risk assessment",
+    "E": "Incident response plan"
+  },
+  "correct_answer": "C",
+  "explanation": "Administrative controls are security measures implemented through policies and procedures, such as security policies."
+},
+{
+  "_id": {
+    "$oid": "64f3da8b32c5a1d8b461a8f6"
+  },
+  "content": "What is the purpose of implementing intrusion detection systems?",
+  "choices": {
+    "A": "To prevent unauthorized access",
+    "B": "To monitor network traffic",
+    "C": "To encrypt data in transit",
+    "D": "To perform vulnerability assessments",
+    "E": "To create incident response plans"
+  },
+  "correct_answer": "B",
+  "explanation": "Intrusion detection systems are used to monitor network traffic and detect any unauthorized or malicious activity."
+},
+{
+  "_id": {
+    "$oid": "64f3da8b32c5a1d8b461a8f7"
+  },
+  "content": "What is the purpose of implementing security policies?",
+  "choices": {
+    "A": "To prevent unauthorized access",
+    "B": "To monitor network traffic",
+    "C": "To encrypt data in transit",
+    "D": "To perform vulnerability assessments",
+    "E": "To create incident response plans"
+  },
+  "correct_answer": "A",
+  "explanation": "Security policies are implemented to define rules and guidelines for protecting systems and data."
+},
+{
+  "_id": {
+    "$oid": "64f3da8b32c5a1d8b461a8f8"
+  },
+  "content": "What is the purpose of implementing firewalls?",
+  "choices": {
+    "A": "To prevent unauthorized access",
+    "B": "To monitor network traffic",
+    "C": "To encrypt data in transit",
+    "D": "To perform vulnerability assessments",
+    "E": "To create incident response plans"
+  },
+  "correct_answer": "A",
+  "explanation": "Firewalls are used to prevent unauthorized access to networks and systems."
+},
+{
+  "_id": {
+    "$oid": "64f4cddf26e4287fe89bc0e9"
+  },
+  "content": "What is the maximum number of hosts that can be addressed in a /24 subnet?",
+  "choices": {
+    "A": "256",
+    "B": "512",
+    "C": "1024",
+    "D": "2048",
+    "E": "4096"
+  },
+  "correct_answer": "A",
+  "explanation": "In a /24 subnet, the network portion is 24 bits and the host portion is 8 bits. 2^8 = 256, so there can be 256 hosts."
+},
+{
+  "_id": {
+    "$oid": "64f4cddf26e4287fe89bc0ea"
+  },
+  "content": "Which of the following protocols is used for secure remote management of network devices?",
+  "choices": {
+    "A": "SSH",
+    "B": "FTP",
+    "C": "SMTP",
+    "D": "HTTP",
+    "E": "Telnet"
+  },
+  "correct_answer": "A",
+  "explanation": "SSH (Secure Shell) is a cryptographic network protocol used for secure remote management of network devices."
+},
+{
+  "_id": {
+    "$oid": "64f4cddf26e4287fe89bc0eb"
+  },
+  "content": "Which of the following is a Layer 2 device?",
+  "choices": {
+    "A": "Router",
+    "B": "Switch",
+    "C": "Firewall",
+    "D": "Proxy server",
+    "E": "Load balancer"
+  },
+  "correct_answer": "B",
+  "explanation": "A switch operates at Layer 2 of the OSI model and is used to connect devices within a local area network."
+},
+{
+  "_id": {
+    "$oid": "64f4cddf26e4287fe89bc0ec"
+  },
+  "content": "What is the default subnet mask for a Class C IP address?",
+  "choices": {
+    "A": "255.0.0.0",
+    "B": "255.255.0.0",
+    "C": "255.255.255.0",
+    "D": "255.255.255.255",
+    "E": "None of the above"
+  },
+  "correct_answer": "C",
+  "explanation": "The default subnet mask for a Class C IP address is 255.255.255.0."
+},
+{
+  "_id": {
+    "$oid": "64f4cddf26e4287fe89bc0ed"
+  },
+  "content": "Which of the following is a broadcast address?",
+  "choices": {
+    "A": "192.168.0.0",
+    "B": "172.16.0.0",
+    "C": "10.0.0.0",
+    "D": "255.255.255.255",
+    "E": "8.8.8.8"
+  },
+  "correct_answer": "D",
+  "explanation": "255.255.255.255 is the broadcast address that is used to send a message to all devices on a network."
+},
+{
+  "_id": {
+    "$oid": "64f4cddf26e4287fe89bc0ee"
+  },
+  "content": "Which of the following is a valid MAC address?",
+  "choices": {
+    "A": "192.168.0.1",
+    "B": "172.16.0.1",
+    "C": "10.0.0.1",
+    "D": "00:1A:8C:9D:45:FF",
+    "E": "8.8.8.8"
+  },
+  "correct_answer": "D",
+  "explanation": "00:1A:8C:9D:45:FF is a valid MAC address."
+},
+{
+  "_id": {
+    "$oid": "64f4cddf26e4287fe89bc0ef"
+  },
+  "content": "Which of the following is a Class B IP address?",
+  "choices": {
+    "A": "192.168.0.1",
+    "B": "172.16.0.1",
+    "C": "10.0.0.1",
+    "D": "169.254.0.1",
+    "E": "8.8.8.8"
+  },
+  "correct_answer": "B",
+  "explanation": "172.16.0.1 is a Class B IP address."
+},
+{
+  "_id": {
+    "$oid": "64f4cddf26e4287fe89bc0f0"
+  },
+  "content": "Which of the following is a valid subnet mask?",
+  "choices": {
+    "A": "255.255.255.0",
+    "B": "255.255.255.128",
+    "C": "255.255.255.192",
+    "D": "255.255.255.224",
+    "E": "255.255.255.240"
+  },
+  "correct_answer": "A",
+  "explanation": "255.255.255.0 is a valid subnet mask."
+},
+{
+  "_id": {
+    "$oid": "64f4fd9726e4287fe89bc0f2"
+  },
+  "content": "In a scenario where a company wants to ensure that each device is connected to every other device for redundancy and fault tolerance, which of the following network topologies is most suitable?",
+  "choices": {
+    "A": "Star",
+    "B": "Mesh",
+    "C": "Bus",
+    "D": "Ring",
+    "E": ""
+  },
+  "correct_answer": "B",
+  "explanation": ""
+}]

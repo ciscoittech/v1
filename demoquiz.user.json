@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "email": "jjones@gmail.com",
+  "username": "jjones",
+  "password_hash": "pbkdf2:sha256:260000$zU9Xa2Xuf0n1ULBN$a4a94f9e8d92ff8e2a9de37cc455643f4d58341aa44540bb1a88d08803e27e30"
+},
+{
+  "_id": {
+    "$oid": "6516ed0a732e19aed439c6f8"
+  },
+  "email": "t.battlehunt@gmail.com",
+  "username": "tbattlehunt",
+  "password_hash": "pbkdf2:sha256:600000$hWx3qaR7PalM4mbU$b26e217036862ed9cc5560fd83032d45f1448457068a98babe4af93238c5008c"
+}]

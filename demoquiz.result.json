@@ -1,0 +1,340 @@
+[{
+  "_id": {
+    "$oid": "64ffa921895170afa54a9564"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc408e"
+  },
+  "selected_answer": "E",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-11T23:56:17.353Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ffac58100d4b7e3cfd74c0"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc408e"
+  },
+  "selected_answer": "E",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-12T00:10:00.556Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ffac5a100d4b7e3cfd74c1"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc408f"
+  },
+  "selected_answer": "C",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-12T00:10:02.137Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ffac6fe179faf7c0e475bf"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4090"
+  },
+  "selected_answer": "A",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-12T00:10:23.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ffac71e179faf7c0e475c0"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4091"
+  },
+  "selected_answer": "B",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-12T00:10:25.503Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ffac74e179faf7c0e475c1"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4092"
+  },
+  "selected_answer": "C",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-12T00:10:28.635Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ffac76e179faf7c0e475c2"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4093"
+  },
+  "selected_answer": "A",
+  "time_taken": "00:05:00",
+  "is_correct": true,
+  "timestamp": {
+    "$date": "2023-09-12T00:10:30.859Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ffac7ae179faf7c0e475c3"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4094"
+  },
+  "selected_answer": "C",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-12T00:10:34.856Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ffac7ce179faf7c0e475c4"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4095"
+  },
+  "selected_answer": "A",
+  "time_taken": "00:05:00",
+  "is_correct": true,
+  "timestamp": {
+    "$date": "2023-09-12T00:10:36.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ffac7fe179faf7c0e475c5"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4096"
+  },
+  "selected_answer": "D",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-12T00:10:39.657Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6500facf806590103bc8b81a"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc408e"
+  },
+  "selected_answer": "A",
+  "time_taken": "00:05:00",
+  "is_correct": true,
+  "timestamp": {
+    "$date": "2023-09-12T23:57:03.482Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6500fad1806590103bc8b81b"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc408f"
+  },
+  "selected_answer": "A",
+  "time_taken": "00:05:00",
+  "is_correct": true,
+  "timestamp": {
+    "$date": "2023-09-12T23:57:05.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6500fad7806590103bc8b81c"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4090"
+  },
+  "selected_answer": "B",
+  "time_taken": "00:05:00",
+  "is_correct": true,
+  "timestamp": {
+    "$date": "2023-09-12T23:57:11.658Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6500fadb806590103bc8b81d"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4091"
+  },
+  "selected_answer": "A",
+  "time_taken": "00:05:00",
+  "is_correct": true,
+  "timestamp": {
+    "$date": "2023-09-12T23:57:15.871Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65011debdec3fa6557c22f55"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc408e"
+  },
+  "selected_answer": "B",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-13T02:26:51.671Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65011deedec3fa6557c22f56"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc408f"
+  },
+  "selected_answer": "D",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-13T02:26:54.973Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65011df1dec3fa6557c22f57"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4090"
+  },
+  "selected_answer": "A",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-13T02:26:57.071Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65011df3dec3fa6557c22f58"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c1676fbf80be8cbc4091"
+  },
+  "selected_answer": "A",
+  "time_taken": "00:05:00",
+  "is_correct": true,
+  "timestamp": {
+    "$date": "2023-09-13T02:26:59.469Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65013010a0555d638e489673"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c20932c5a1d8b461a885"
+  },
+  "selected_answer": "C",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-13T03:44:16.485Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65013013a0555d638e489674"
+  },
+  "user": {
+    "$oid": "64ffa821895170afa54a9562"
+  },
+  "question": {
+    "$oid": "64f3c20932c5a1d8b461a886"
+  },
+  "selected_answer": "A",
+  "time_taken": "00:05:00",
+  "is_correct": false,
+  "timestamp": {
+    "$date": "2023-09-13T03:44:19.420Z"
+  }
+}]

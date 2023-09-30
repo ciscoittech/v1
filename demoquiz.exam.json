@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "64f3c1666fbf80be8cbc408d"
+  },
+  "name": "CCNA",
+  "description": "The Quintessential exam on network. Get a CCNA and watch your opportunities grow.",
+  "subsections": [
+    {
+      "$oid": "64f3c1676fbf80be8cbc409d"
+    },
+    {
+      "$oid": "64f3c20932c5a1d8b461a888"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a898"
+    },
+    {
+      "$oid": "64f3c24d32c5a1d8b461a898"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a3"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a3"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a3"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a3"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a3"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a3"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a3"
+    },
+    {
+      "$oid": "64f3c2a032c5a1d8b461a8a3"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8ae"
+    },
+    {
+      "$oid": "64f3c6b832c5a1d8b461a8ae"
+    },
+    {
+      "$oid": "64f3c83d32c5a1d8b461a8b9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3ced832c5a1d8b461a8ba"
+  },
+  "name": "Network Plus",
+  "description": "Learn Network Fundamentals through this journey through the world of IP.",
+  "subsections": [
+    {
+      "$oid": "64f3ced832c5a1d8b461a8c5"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8c5"
+    },
+    {
+      "$oid": "64f3ced832c5a1d8b461a8c5"
+    },
+    {
+      "$oid": "64f3d09132c5a1d8b461a8cc"
+    },
+    {
+      "$oid": "64f3d09132c5a1d8b461a8cc"
+    },
+    {
+      "$oid": "64f3d1e532c5a1d8b461a8d9"
+    },
+    {
+      "$oid": "64f3d1e532c5a1d8b461a8d9"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8e4"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8e4"
+    },
+    {
+      "$oid": "64f3d25032c5a1d8b461a8e4"
+    },
+    {
+      "$oid": "64f4cddf26e4287fe89bc0f1"
+    },
+    {
+      "$oid": "64f4fd9726e4287fe89bc0f3"
+    },
+    {
+      "$oid": "64f4fd9726e4287fe89bc0f3"
+    },
+    {
+      "$oid": "64f4fd9726e4287fe89bc0f3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "64f3d70932c5a1d8b461a8e5"
+  },
+  "name": "Security Plus",
+  "description": "Learn the fundamentals of Cyber through this entry level certification and open up doors!!",
+  "subsections": [
+    {
+      "$oid": "64f3d70932c5a1d8b461a8f0"
+    },
+    {
+      "$oid": "64f3da8b32c5a1d8b461a8f9"
+    }
+  ]
+}]
