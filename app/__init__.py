@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flask, session
 from flask_login import LoginManager
 import mongoengine as me
 
@@ -26,5 +26,5 @@ def load_user(user_id):
 
 
 # Import routes after creating the app instance
-from app.routes import auth_routes, user_routes, quiz_routes, chat_routes
+from app.routes import auth_routes, user_routes, quiz_routes, chat_routes, resume_routes
 
