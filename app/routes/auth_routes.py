@@ -8,7 +8,8 @@ from app import app
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    return render_template('home/index.html')
+    form = RegistrationForm()
+    return render_template('accounts/register.html', form=form)
 
 
 @app.route('/tables', methods=['GET', 'POST'])
@@ -51,7 +52,7 @@ def success():
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     if current_user.is_authenticated:
-        return redirect(url_for('home/profile.html'))
+        return redirect(url_for('profile'))
 
     form = LoginForm()
     if form.validate_on_submit():

@@ -35,3 +35,4 @@ class Result(me.Document):
     time_taken = me.StringField(required=True)  # Placeholder, adjust based on your needs
     is_correct = me.BooleanField(required=True)
     timestamp = me.DateTimeField(default=datetime.utcnow)  # to track when the user answered the question
+    submitted_at = me.DateTimeField()  # to track when the user submitted the answer
